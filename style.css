@@ -9,3 +9,11 @@
 section {
   padding-top: 5rem;
 }
+
+.project-img {
+  width: 100%;
+}
+
+#project .row > * {
+  padding: 0;
+}
